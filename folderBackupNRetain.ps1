@@ -1,7 +1,7 @@
 
 # Define source and backup directories
-$sourceDirectory = "C:\Users\cchen2\Desktop\congbox\temp\test\Source"
-$backupDirectory = "C:\Users\cchen2\Desktop\congbox\temp\test\Backup"
+$sourceDirectory = "C:\congbox\temp\test\Source"
+$backupDirectory = "C:\congbox\temp\test\Backup"
 # Specify the number of latest folders to keep
 $numberOfFoldersToKeep = 2
 
